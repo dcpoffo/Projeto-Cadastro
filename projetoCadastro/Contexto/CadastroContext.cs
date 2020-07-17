@@ -11,5 +11,6 @@ namespace projetoCadastro.Contexto
         }
 
         public DbSet<Cliente> Cliente { get; set; }
+        public DbSet<Curso> Curso { get; set; }
     }
 }

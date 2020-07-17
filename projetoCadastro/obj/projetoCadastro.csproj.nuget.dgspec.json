@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Apex08\\Desktop\\Darlan\\Aula11-07\\Projeto Cadastro\\projetoCadastro\\projetoCadastro\\projetoCadastro.csproj": {}
+    "D:\\SISTEMAS\\CSharp\\Apex\\Aula 11-07\\Projeto-Cadastro\\projetoCadastro\\projetoCadastro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Apex08\\Desktop\\Darlan\\Aula11-07\\Projeto Cadastro\\projetoCadastro\\projetoCadastro\\projetoCadastro.csproj": {
+    "D:\\SISTEMAS\\CSharp\\Apex\\Aula 11-07\\Projeto-Cadastro\\projetoCadastro\\projetoCadastro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Apex08\\Desktop\\Darlan\\Aula11-07\\Projeto Cadastro\\projetoCadastro\\projetoCadastro\\projetoCadastro.csproj",
+        "projectUniqueName": "D:\\SISTEMAS\\CSharp\\Apex\\Aula 11-07\\Projeto-Cadastro\\projetoCadastro\\projetoCadastro.csproj",
         "projectName": "projetoCadastro",
-        "projectPath": "C:\\Users\\Apex08\\Desktop\\Darlan\\Aula11-07\\Projeto Cadastro\\projetoCadastro\\projetoCadastro\\projetoCadastro.csproj",
-        "packagesPath": "C:\\Users\\Apex08\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Apex08\\Desktop\\Darlan\\Aula11-07\\Projeto Cadastro\\projetoCadastro\\projetoCadastro\\obj\\",
+        "projectPath": "D:\\SISTEMAS\\CSharp\\Apex\\Aula 11-07\\Projeto-Cadastro\\projetoCadastro\\projetoCadastro.csproj",
+        "packagesPath": "C:\\Users\\dcpof\\.nuget\\packages\\",
+        "outputPath": "D:\\SISTEMAS\\CSharp\\Apex\\Aula 11-07\\Projeto-Cadastro\\projetoCadastro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Apex08\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dcpof\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
